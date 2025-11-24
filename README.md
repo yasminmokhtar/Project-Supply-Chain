@@ -34,6 +34,3 @@ The report consists of 6 comprehensive pages:
 1. Clone the repository.
 2. Open the `supply_chain_V1.pbix` file using **Power BI Desktop**.
 3. Explore the interactive visuals and filter data by product, location, or supplier.
-
-## 👤 Author
-**Yasmin Mokhtar** Digital Egypt Pioneers Initiative (DECI)
